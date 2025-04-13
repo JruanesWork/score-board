@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    color: #fff
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center
+}
+.score-card {
+    background: #000;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px
+}
+.score-card h2 {
+    margin: 0;
+    font-size: 4rem;
+    color: #F94F6D;
+}
+.score-btn button {
+    border: 1px solid #fff;
+    background: transparent;
+    color: #fff;
+    padding: 5px 8px;
+    border-radius: 5px;
+}
